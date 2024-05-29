@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://badge.mediaplus.ma/levi/yel-ouaz
+[![yel-ouaz's 42 stats](https://badge.mediaplus.ma/levi/yel-ouaz)](https://github.com/oakoudad/badge42)
 <!--
 **youssef-elo/youssef-elo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
